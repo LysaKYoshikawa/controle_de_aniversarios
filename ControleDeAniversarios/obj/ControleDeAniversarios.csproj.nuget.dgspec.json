@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\87231\\repos\\study\\ControleDeAniversarios\\ControleDeAniversarios\\ControleDeAniversarios.csproj": {}
+    "C:\\Users\\Monalysa\\OneDrive\\Área de Trabalho\\repos\\ControleDeAniversarios\\ControleDeAniversarios\\ControleDeAniversarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\87231\\repos\\study\\ControleDeAniversarios\\ControleDeAniversarios\\ControleDeAniversarios.csproj": {
+    "C:\\Users\\Monalysa\\OneDrive\\Área de Trabalho\\repos\\ControleDeAniversarios\\ControleDeAniversarios\\ControleDeAniversarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\87231\\repos\\study\\ControleDeAniversarios\\ControleDeAniversarios\\ControleDeAniversarios.csproj",
+        "projectUniqueName": "C:\\Users\\Monalysa\\OneDrive\\Área de Trabalho\\repos\\ControleDeAniversarios\\ControleDeAniversarios\\ControleDeAniversarios.csproj",
         "projectName": "ControleDeAniversarios",
-        "projectPath": "C:\\Users\\87231\\repos\\study\\ControleDeAniversarios\\ControleDeAniversarios\\ControleDeAniversarios.csproj",
-        "packagesPath": "C:\\Users\\87231\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\87231\\repos\\study\\ControleDeAniversarios\\ControleDeAniversarios\\obj\\",
+        "projectPath": "C:\\Users\\Monalysa\\OneDrive\\Área de Trabalho\\repos\\ControleDeAniversarios\\ControleDeAniversarios\\ControleDeAniversarios.csproj",
+        "packagesPath": "C:\\Users\\Monalysa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Monalysa\\OneDrive\\Área de Trabalho\\repos\\ControleDeAniversarios\\ControleDeAniversarios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\87231\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Monalysa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -80,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
