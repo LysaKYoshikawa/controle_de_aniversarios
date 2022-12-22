@@ -1,14 +1,15 @@
 ﻿@model IEnumerable<ControleDeAniversarios.Models.AniversarianteModel>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Lista de aniversáriantes";
 }
+<div class="text-center">
+    <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+        <a role="button" class="btn btn-primary" asp-controller="Aniversariante" asp-action="Create">Criar</a>
+    </div>
+    <br />
+<h1 class="display-4">Listagem de contatos</h1>
 
-<h1>Index</h1>
-
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
 <table class="table">
     <thead>
         <tr>
@@ -36,12 +37,15 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Data)
             </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a role="button" class="btn btn-primary" asp-controller="Aniversariante" asp-action="Edit">Editar</a>
+                            <a role="button" class="btn btn-danger" asp-controller="Aniversariante" asp-action="Delete">Apagar</a>
+                    </div>
+                </td>
         </tr>
 }
     </tbody>
 </table>
+
+</div>
