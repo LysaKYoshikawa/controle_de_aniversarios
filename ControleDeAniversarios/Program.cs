@@ -9,14 +9,14 @@ namespace ControleDeAniversarios
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            builder.Services.AddDbContext<BancoContext>(options => options.UseSqlServer("Data Source=DESKTOP-CP9SP9G;Database=Db_SistemaAniversariante;User Id=DESKTOP-CP9SP9G\\Monalysa;Password=;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False"));
+
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
 
-            services.AddEntityFrameworkSqlServer()
-                .AddDbContext<BancoContext>(o => o.UseSqlServer(app.GetConnectionString("DataBase")));
-
+            
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
             {

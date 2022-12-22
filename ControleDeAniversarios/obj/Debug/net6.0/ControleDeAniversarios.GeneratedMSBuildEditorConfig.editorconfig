@@ -16,6 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Monalysa\OneDrive\Área de Trabalho\repos\ControleDeAniversarios\ControleDeAniversarios
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Monalysa/OneDrive/Área de Trabalho/repos/ControleDeAniversarios/ControleDeAniversarios/Views/Aniversariante/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pdmVyc2FyaWFudGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Monalysa/OneDrive/Área de Trabalho/repos/ControleDeAniversarios/ControleDeAniversarios/Views/Aniversariante/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pdmVyc2FyaWFudGVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Monalysa/OneDrive/Área de Trabalho/repos/ControleDeAniversarios/ControleDeAniversarios/Views/Aniversariante/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pdmVyc2FyaWFudGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Monalysa/OneDrive/Área de Trabalho/repos/ControleDeAniversarios/ControleDeAniversarios/Views/Aniversariante/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pdmVyc2FyaWFudGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Monalysa/OneDrive/Área de Trabalho/repos/ControleDeAniversarios/ControleDeAniversarios/Views/Aniversariante/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pdmVyc2FyaWFudGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Monalysa/OneDrive/Área de Trabalho/repos/ControleDeAniversarios/ControleDeAniversarios/Views/Contato/ApagarConfirmacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xBcGFnYXJDb25maXJtYWNhby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
